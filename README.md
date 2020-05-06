@@ -18,14 +18,15 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 You can install the package via composer:
 
 ```bash
-composer require spatie/hanhchinhvn
+composer require vanthao03596/hanhchinhvn
 ```
 
 ## Usage
 
-``` php
-$skeleton = new Spatie\Skeleton();
-echo $skeleton->echoPhrase('Hello, Spatie!');
+```bash
+php artisan vendor:publish --provider="Vanthao03596\HCVN\HCVNServiceProvider"
+php artisan migrate
+php artisan hcvn:install
 ```
 
 ## Testing
