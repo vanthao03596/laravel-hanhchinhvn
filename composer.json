@@ -1,11 +1,12 @@
 {
-    "name": "vanthao03596/hanhchinhvn",
+    "name": "vanthao03596/laravel-hanhchinhvn",
     "description": "hành chính việt nam laravel",
     "keywords": [
         "vanthao03596",
-        "hanhchinhvn"
+        "hanhchinhvn",
+        "laravel"
     ],
-    "homepage": "https://github.com/vanthao03596/hanhchinhvn",
+    "homepage": "https://github.com/vanthao03596/laravel-hanhchinhvn",
     "license": "MIT",
     "authors": [
         {
