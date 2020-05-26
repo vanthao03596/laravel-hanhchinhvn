@@ -7,7 +7,7 @@ Laravel hcvn contain all cities, districts, wards in vietnam
 You can install the package via composer:
 
 ```bash
-composer require vanthao03596/hanhchinhvn
+composer require vanthao03596/laravel-hanhchinhvn
 ```
 
 ## Usage
