@@ -18,6 +18,28 @@ php artisan migrate
 php artisan hcvn:install
 ```
 
+### Working with Models
+
+Get all cities, districts, wards
+```php
+use Vanthao03596\HCVN\Models\City;
+use Vanthao03596\HCVN\Models\District;
+use Vanthao03596\HCVN\Models\Ward;
+
+$cities = City::get();
+$districts = District::get();
+$wards = Ward::get();
+```
+Get data via relationship
+
+```php
+use Vanthao03596\HCVN\Models\City;
+
+$city = City::first();
+$districts = $city->districts;
+$wards = $city->wards;
+```
+
 All data get from: [madnh/hanhchinhvn](https://github.com/madnh/hanhchinhvn)
 
 ## Testing
