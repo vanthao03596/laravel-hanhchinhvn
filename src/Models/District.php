@@ -10,9 +10,16 @@ class District extends Model
 {
     protected $guarded = [];
 
-    public function city(): BelongsTo
+    public function __construct(array $attributes = [])
     {
-        return $this->belongsTo(City::class, 'parent_code', 'code');
+        parent::__construct($attributes);
+
+        $this->setTable(config('hcvn.table_names.districts'));
+    }
+
+    public function province(): BelongsTo
+    {
+        return $this->belongsTo(Province::class, 'parent_code', 'code');
     }
 
     public function wards(): HasMany

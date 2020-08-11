@@ -22,20 +22,20 @@ php artisan hcvn:install
 
 Get all cities, districts, wards
 ```php
-use Vanthao03596\HCVN\Models\City;
+use Vanthao03596\HCVN\Models\Province;
 use Vanthao03596\HCVN\Models\District;
 use Vanthao03596\HCVN\Models\Ward;
 
-$cities = City::get();
+$cities = Province::get();
 $districts = District::get();
 $wards = Ward::get();
 ```
 Get data via relationship
 
 ```php
-use Vanthao03596\HCVN\Models\City;
+use Vanthao03596\HCVN\Models\Province;
 
-$city = City::first();
+$city = Province::first();
 $districts = $city->districts;
 $wards = $city->wards;
 ```

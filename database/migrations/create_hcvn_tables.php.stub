@@ -19,7 +19,7 @@ class CreateHcvnTables extends Migration
             throw new \Exception('Error: config/hcvn.php not found and defaults could not be merged. Please publish the package configuration before proceeding.');
         }
 
-        Schema::create($tableNames['cities'], function (Blueprint $table) {
+        Schema::create($tableNames['provinces'], function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('name');
             $table->string('slug')->index();
@@ -68,7 +68,7 @@ class CreateHcvnTables extends Migration
             throw new \Exception('Error: config/hcvn.php not found and defaults could not be merged. Please publish the package configuration before proceeding, or drop the tables manually.');
         }
 
-        Schema::drop($tableNames['cities']);
+        Schema::drop($tableNames['provinces']);
         Schema::drop($tableNames['districts']);
         Schema::drop($tableNames['wards']);
     }

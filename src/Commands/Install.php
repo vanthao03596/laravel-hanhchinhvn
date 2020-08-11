@@ -4,7 +4,7 @@ namespace Vanthao03596\HCVN\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\DB;
-use Vanthao03596\HCVN\Models\City;
+use Vanthao03596\HCVN\Models\Province;
 use Vanthao03596\HCVN\Models\District;
 use Vanthao03596\HCVN\Models\Ward;
 
@@ -16,16 +16,16 @@ class Install extends Command
 
     public function handle()
     {
-        City::truncate();
+        Province::truncate();
         District::truncate();
         Ward::truncate();
 
-        $citiesData = $this->getContent('tinh_tp.json');
+        $provincesData = $this->getContent('tinh_tp.json');
         $districtsData = $this->getContent('quan_huyen.json');
         $wardsData = $this->getContent('xa_phuong.json');
 
         $tableNames = config('hcvn.table_names');
-        $this->insert($tableNames['cities'], $citiesData);
+        $this->insert($tableNames['provinces'], $provincesData);
         $this->insert($tableNames['districts'], $districtsData);
 
         foreach (collect($wardsData)->chunk(1000) as $wards) {

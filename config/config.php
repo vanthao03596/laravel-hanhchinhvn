@@ -2,7 +2,7 @@
 
 return [
     'table_names' => [
-        'cities' => 'cities',
+        'provinces' => 'provinces',
         'districts' => 'districts',
         'wards' => 'wards',
     ]
