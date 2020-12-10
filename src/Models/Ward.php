@@ -18,6 +18,6 @@ class Ward extends Model
 
     public function district(): BelongsTo
     {
-        return $this->belongsTo(District::class, 'parent_id', 'code');
+        return $this->belongsTo(District::class, 'parent_code', 'code');
     }
 }
