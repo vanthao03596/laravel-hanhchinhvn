@@ -1,0 +1,62 @@
+{
+    "20656": {
+        "name": "Quế Trung",
+        "type": "xa",
+        "slug": "que-trung",
+        "name_with_type": "Xã Quế Trung",
+        "path": "Quế Trung, Nông Sơn, Quảng Nam",
+        "path_with_type": "Xã Quế Trung, Huyện Nông Sơn, Tỉnh Quảng Nam",
+        "code": "20656",
+        "parent_code": "519"
+    },
+    "20668": {
+        "name": "Ninh Phước",
+        "type": "xa",
+        "slug": "ninh-phuoc",
+        "name_with_type": "Xã Ninh Phước",
+        "path": "Ninh Phước, Nông Sơn, Quảng Nam",
+        "path_with_type": "Xã Ninh Phước, Huyện Nông Sơn, Tỉnh Quảng Nam",
+        "code": "20668",
+        "parent_code": "519"
+    },
+    "20669": {
+        "name": "Phước Ninh",
+        "type": "xa",
+        "slug": "phuoc-ninh",
+        "name_with_type": "Xã Phước Ninh",
+        "path": "Phước Ninh, Nông Sơn, Quảng Nam",
+        "path_with_type": "Xã Phước Ninh, Huyện Nông Sơn, Tỉnh Quảng Nam",
+        "code": "20669",
+        "parent_code": "519"
+    },
+    "20671": {
+        "name": "Quế Lộc",
+        "type": "xa",
+        "slug": "que-loc",
+        "name_with_type": "Xã Quế Lộc",
+        "path": "Quế Lộc, Nông Sơn, Quảng Nam",
+        "path_with_type": "Xã Quế Lộc, Huyện Nông Sơn, Tỉnh Quảng Nam",
+        "code": "20671",
+        "parent_code": "519"
+    },
+    "20672": {
+        "name": "Sơn Viên",
+        "type": "xa",
+        "slug": "son-vien",
+        "name_with_type": "Xã Sơn Viên",
+        "path": "Sơn Viên, Nông Sơn, Quảng Nam",
+        "path_with_type": "Xã Sơn Viên, Huyện Nông Sơn, Tỉnh Quảng Nam",
+        "code": "20672",
+        "parent_code": "519"
+    },
+    "20692": {
+        "name": "Quế Lâm",
+        "type": "xa",
+        "slug": "que-lam",
+        "name_with_type": "Xã Quế Lâm",
+        "path": "Quế Lâm, Nông Sơn, Quảng Nam",
+        "path_with_type": "Xã Quế Lâm, Huyện Nông Sơn, Tỉnh Quảng Nam",
+        "code": "20692",
+        "parent_code": "519"
+    }
+}

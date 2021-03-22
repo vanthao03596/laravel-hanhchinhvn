@@ -1,0 +1,112 @@
+{
+    "04924": {
+        "name": "Lương Sơn",
+        "type": "thi-tran",
+        "slug": "luong-son",
+        "name_with_type": "Thị trấn Lương Sơn",
+        "path": "Lương Sơn, Lương Sơn, Hoà Bình",
+        "path_with_type": "Thị trấn Lương Sơn, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "04924",
+        "parent_code": "152"
+    },
+    "04942": {
+        "name": "Lâm Sơn",
+        "type": "xa",
+        "slug": "lam-son",
+        "name_with_type": "Xã Lâm Sơn",
+        "path": "Lâm Sơn, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Lâm Sơn, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "04942",
+        "parent_code": "152"
+    },
+    "04945": {
+        "name": "Hòa Sơn",
+        "type": "xa",
+        "slug": "hoa-son",
+        "name_with_type": "Xã Hòa Sơn",
+        "path": "Hòa Sơn, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Hòa Sơn, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "04945",
+        "parent_code": "152"
+    },
+    "04951": {
+        "name": "Tân Vinh",
+        "type": "xa",
+        "slug": "tan-vinh",
+        "name_with_type": "Xã Tân Vinh",
+        "path": "Tân Vinh, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Tân Vinh, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "04951",
+        "parent_code": "152"
+    },
+    "04954": {
+        "name": "Nhuận Trạch",
+        "type": "xa",
+        "slug": "nhuan-trach",
+        "name_with_type": "Xã Nhuận Trạch",
+        "path": "Nhuận Trạch, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Nhuận Trạch, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "04954",
+        "parent_code": "152"
+    },
+    "04957": {
+        "name": "Cao Sơn",
+        "type": "xa",
+        "slug": "cao-son",
+        "name_with_type": "Xã Cao Sơn",
+        "path": "Cao Sơn, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Cao Sơn, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "04957",
+        "parent_code": "152"
+    },
+    "04960": {
+        "name": "Cư Yên",
+        "type": "xa",
+        "slug": "cu-yen",
+        "name_with_type": "Xã Cư Yên",
+        "path": "Cư Yên, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Cư Yên, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "04960",
+        "parent_code": "152"
+    },
+    "04969": {
+        "name": "Liên Sơn",
+        "type": "xa",
+        "slug": "lien-son",
+        "name_with_type": "Xã Liên Sơn",
+        "path": "Liên Sơn, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Liên Sơn, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "04969",
+        "parent_code": "152"
+    },
+    "05008": {
+        "name": "Cao Dương",
+        "type": "xa",
+        "slug": "cao-duong",
+        "name_with_type": "Xã Cao Dương",
+        "path": "Cao Dương, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Cao Dương, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "05008",
+        "parent_code": "152"
+    },
+    "05041": {
+        "name": "Thanh Sơn",
+        "type": "xa",
+        "slug": "thanh-son",
+        "name_with_type": "Xã Thanh Sơn",
+        "path": "Thanh Sơn, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Thanh Sơn, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "05041",
+        "parent_code": "152"
+    },
+    "05047": {
+        "name": "Thanh Cao",
+        "type": "xa",
+        "slug": "thanh-cao",
+        "name_with_type": "Xã Thanh Cao",
+        "path": "Thanh Cao, Lương Sơn, Hoà Bình",
+        "path_with_type": "Xã Thanh Cao, Huyện Lương Sơn, Tỉnh Hoà Bình",
+        "code": "05047",
+        "parent_code": "152"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "11455": {
+        "name": "Ngọc Xuyên",
+        "type": "phuong",
+        "slug": "ngoc-xuyen",
+        "name_with_type": "Phường Ngọc Xuyên",
+        "path": "Ngọc Xuyên, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Ngọc Xuyên, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11455",
+        "parent_code": "308"
+    },
+    "11458": {
+        "name": "Hải Sơn",
+        "type": "phuong",
+        "slug": "hai-son",
+        "name_with_type": "Phường Hải Sơn",
+        "path": "Hải Sơn, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Hải Sơn, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11458",
+        "parent_code": "308"
+    },
+    "11461": {
+        "name": "Vạn Hương",
+        "type": "phuong",
+        "slug": "van-huong",
+        "name_with_type": "Phường Vạn Hương",
+        "path": "Vạn Hương, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Vạn Hương, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11461",
+        "parent_code": "308"
+    },
+    "11465": {
+        "name": "Minh Đức",
+        "type": "phuong",
+        "slug": "minh-duc",
+        "name_with_type": "Phường Minh Đức",
+        "path": "Minh Đức, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Minh Đức, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11465",
+        "parent_code": "308"
+    },
+    "11467": {
+        "name": "Bàng La",
+        "type": "phuong",
+        "slug": "bang-la",
+        "name_with_type": "Phường Bàng La",
+        "path": "Bàng La, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Bàng La, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11467",
+        "parent_code": "308"
+    },
+    "11737": {
+        "name": "Hợp Đức",
+        "type": "phuong",
+        "slug": "hop-duc",
+        "name_with_type": "Phường Hợp Đức",
+        "path": "Hợp Đức, Đồ Sơn, Hải Phòng",
+        "path_with_type": "Phường Hợp Đức, Quận Đồ Sơn, Thành phố Hải Phòng",
+        "code": "11737",
+        "parent_code": "308"
+    }
+}

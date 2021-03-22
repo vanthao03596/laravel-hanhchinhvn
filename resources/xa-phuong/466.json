@@ -1,0 +1,172 @@
+{
+    "19495": {
+        "name": "Gio Linh",
+        "type": "thi-tran",
+        "slug": "gio-linh",
+        "name_with_type": "Thị trấn Gio Linh",
+        "path": "Gio Linh, Gio Linh, Quảng Trị",
+        "path_with_type": "Thị trấn Gio Linh, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19495",
+        "parent_code": "466"
+    },
+    "19496": {
+        "name": "Cửa Việt",
+        "type": "thi-tran",
+        "slug": "cua-viet",
+        "name_with_type": "Thị trấn Cửa Việt",
+        "path": "Cửa Việt, Gio Linh, Quảng Trị",
+        "path_with_type": "Thị trấn Cửa Việt, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19496",
+        "parent_code": "466"
+    },
+    "19498": {
+        "name": "Trung Giang",
+        "type": "xa",
+        "slug": "trung-giang",
+        "name_with_type": "Xã Trung Giang",
+        "path": "Trung Giang, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Trung Giang, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19498",
+        "parent_code": "466"
+    },
+    "19501": {
+        "name": "Trung Hải",
+        "type": "xa",
+        "slug": "trung-hai",
+        "name_with_type": "Xã Trung Hải",
+        "path": "Trung Hải, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Trung Hải, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19501",
+        "parent_code": "466"
+    },
+    "19504": {
+        "name": "Trung Sơn",
+        "type": "xa",
+        "slug": "trung-son",
+        "name_with_type": "Xã Trung Sơn",
+        "path": "Trung Sơn, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Trung Sơn, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19504",
+        "parent_code": "466"
+    },
+    "19507": {
+        "name": "Phong Bình",
+        "type": "xa",
+        "slug": "phong-binh",
+        "name_with_type": "Xã Phong Bình",
+        "path": "Phong Bình, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Phong Bình, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19507",
+        "parent_code": "466"
+    },
+    "19510": {
+        "name": "Gio Mỹ",
+        "type": "xa",
+        "slug": "gio-my",
+        "name_with_type": "Xã Gio Mỹ",
+        "path": "Gio Mỹ, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Gio Mỹ, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19510",
+        "parent_code": "466"
+    },
+    "19519": {
+        "name": "Gio Hải",
+        "type": "xa",
+        "slug": "gio-hai",
+        "name_with_type": "Xã Gio Hải",
+        "path": "Gio Hải, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Gio Hải, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19519",
+        "parent_code": "466"
+    },
+    "19522": {
+        "name": "Gio An",
+        "type": "xa",
+        "slug": "gio-an",
+        "name_with_type": "Xã Gio An",
+        "path": "Gio An, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Gio An, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19522",
+        "parent_code": "466"
+    },
+    "19525": {
+        "name": "Gio Châu",
+        "type": "xa",
+        "slug": "gio-chau",
+        "name_with_type": "Xã Gio Châu",
+        "path": "Gio Châu, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19525",
+        "parent_code": "466"
+    },
+    "19531": {
+        "name": "Gio Việt",
+        "type": "xa",
+        "slug": "gio-viet",
+        "name_with_type": "Xã Gio Việt",
+        "path": "Gio Việt, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Gio Việt, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19531",
+        "parent_code": "466"
+    },
+    "19534": {
+        "name": "Linh Trường",
+        "type": "xa",
+        "slug": "linh-truong",
+        "name_with_type": "Xã Linh Trường",
+        "path": "Linh Trường, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Linh Trường, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19534",
+        "parent_code": "466"
+    },
+    "19537": {
+        "name": "Gio Sơn",
+        "type": "xa",
+        "slug": "gio-son",
+        "name_with_type": "Xã Gio Sơn",
+        "path": "Gio Sơn, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Gio Sơn, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19537",
+        "parent_code": "466"
+    },
+    "19543": {
+        "name": "Gio Mai",
+        "type": "xa",
+        "slug": "gio-mai",
+        "name_with_type": "Xã Gio Mai",
+        "path": "Gio Mai, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Gio Mai, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19543",
+        "parent_code": "466"
+    },
+    "19546": {
+        "name": "Hải Thái",
+        "type": "xa",
+        "slug": "hai-thai",
+        "name_with_type": "Xã Hải Thái",
+        "path": "Hải Thái, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Hải Thái, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19546",
+        "parent_code": "466"
+    },
+    "19549": {
+        "name": "Linh Hải",
+        "type": "xa",
+        "slug": "linh-hai",
+        "name_with_type": "Xã Linh Hải",
+        "path": "Linh Hải, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Linh Hải, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19549",
+        "parent_code": "466"
+    },
+    "19552": {
+        "name": "Gio Quang",
+        "type": "xa",
+        "slug": "gio-quang",
+        "name_with_type": "Xã Gio Quang",
+        "path": "Gio Quang, Gio Linh, Quảng Trị",
+        "path_with_type": "Xã Gio Quang, Huyện Gio Linh, Tỉnh Quảng Trị",
+        "code": "19552",
+        "parent_code": "466"
+    }
+}

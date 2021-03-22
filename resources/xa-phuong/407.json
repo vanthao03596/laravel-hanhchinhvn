@@ -1,0 +1,312 @@
+{
+    "16561": {
+        "name": "Hải Hòa",
+        "type": "phuong",
+        "slug": "hai-hoa",
+        "name_with_type": "Phường Hải Hòa",
+        "path": "Hải Hòa, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Hải Hòa, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16561",
+        "parent_code": "407"
+    },
+    "16564": {
+        "name": "Hải Châu",
+        "type": "phuong",
+        "slug": "hai-chau",
+        "name_with_type": "Phường Hải Châu",
+        "path": "Hải Châu, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Hải Châu, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16564",
+        "parent_code": "407"
+    },
+    "16567": {
+        "name": "Thanh Thủy",
+        "type": "xa",
+        "slug": "thanh-thuy",
+        "name_with_type": "Xã Thanh Thủy",
+        "path": "Thanh Thủy, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Thanh Thủy, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16567",
+        "parent_code": "407"
+    },
+    "16570": {
+        "name": "Thanh Sơn",
+        "type": "xa",
+        "slug": "thanh-son",
+        "name_with_type": "Xã Thanh Sơn",
+        "path": "Thanh Sơn, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Thanh Sơn, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16570",
+        "parent_code": "407"
+    },
+    "16576": {
+        "name": "Hải Ninh",
+        "type": "phuong",
+        "slug": "hai-ninh",
+        "name_with_type": "Phường Hải Ninh",
+        "path": "Hải Ninh, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Hải Ninh, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16576",
+        "parent_code": "407"
+    },
+    "16579": {
+        "name": "Anh Sơn",
+        "type": "xa",
+        "slug": "anh-son",
+        "name_with_type": "Xã Anh Sơn",
+        "path": "Anh Sơn, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Anh Sơn, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16579",
+        "parent_code": "407"
+    },
+    "16582": {
+        "name": "Ngọc Lĩnh",
+        "type": "xa",
+        "slug": "ngoc-linh",
+        "name_with_type": "Xã Ngọc Lĩnh",
+        "path": "Ngọc Lĩnh, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Ngọc Lĩnh, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16582",
+        "parent_code": "407"
+    },
+    "16585": {
+        "name": "Hải An",
+        "type": "phuong",
+        "slug": "hai-an",
+        "name_with_type": "Phường Hải An",
+        "path": "Hải An, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Hải An, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16585",
+        "parent_code": "407"
+    },
+    "16591": {
+        "name": "Các Sơn",
+        "type": "xa",
+        "slug": "cac-son",
+        "name_with_type": "Xã Các Sơn",
+        "path": "Các Sơn, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Các Sơn, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16591",
+        "parent_code": "407"
+    },
+    "16594": {
+        "name": "Tân Dân",
+        "type": "phuong",
+        "slug": "tan-dan",
+        "name_with_type": "Phường Tân Dân",
+        "path": "Tân Dân, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Tân Dân, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16594",
+        "parent_code": "407"
+    },
+    "16597": {
+        "name": "Hải Lĩnh",
+        "type": "phuong",
+        "slug": "hai-linh",
+        "name_with_type": "Phường Hải Lĩnh",
+        "path": "Hải Lĩnh, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Hải Lĩnh, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16597",
+        "parent_code": "407"
+    },
+    "16600": {
+        "name": "Định Hải",
+        "type": "xa",
+        "slug": "dinh-hai",
+        "name_with_type": "Xã Định Hải",
+        "path": "Định Hải, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Định Hải, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16600",
+        "parent_code": "407"
+    },
+    "16603": {
+        "name": "Phú Sơn",
+        "type": "xa",
+        "slug": "phu-son",
+        "name_with_type": "Xã Phú Sơn",
+        "path": "Phú Sơn, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Phú Sơn, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16603",
+        "parent_code": "407"
+    },
+    "16606": {
+        "name": "Ninh Hải",
+        "type": "phuong",
+        "slug": "ninh-hai",
+        "name_with_type": "Phường Ninh Hải",
+        "path": "Ninh Hải, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Ninh Hải, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16606",
+        "parent_code": "407"
+    },
+    "16609": {
+        "name": "Nguyên Bình",
+        "type": "phuong",
+        "slug": "nguyen-binh",
+        "name_with_type": "Phường Nguyên Bình",
+        "path": "Nguyên Bình, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Nguyên Bình, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16609",
+        "parent_code": "407"
+    },
+    "16612": {
+        "name": "Hải Nhân",
+        "type": "xa",
+        "slug": "hai-nhan",
+        "name_with_type": "Xã Hải Nhân",
+        "path": "Hải Nhân, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Hải Nhân, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16612",
+        "parent_code": "407"
+    },
+    "16618": {
+        "name": "Bình Minh",
+        "type": "phuong",
+        "slug": "binh-minh",
+        "name_with_type": "Phường Bình Minh",
+        "path": "Bình Minh, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Bình Minh, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16618",
+        "parent_code": "407"
+    },
+    "16621": {
+        "name": "Hải Thanh",
+        "type": "phuong",
+        "slug": "hai-thanh",
+        "name_with_type": "Phường Hải Thanh",
+        "path": "Hải Thanh, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Hải Thanh, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16621",
+        "parent_code": "407"
+    },
+    "16624": {
+        "name": "Phú Lâm",
+        "type": "xa",
+        "slug": "phu-lam",
+        "name_with_type": "Xã Phú Lâm",
+        "path": "Phú Lâm, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Phú Lâm, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16624",
+        "parent_code": "407"
+    },
+    "16627": {
+        "name": "Xuân Lâm",
+        "type": "phuong",
+        "slug": "xuan-lam",
+        "name_with_type": "Phường Xuân Lâm",
+        "path": "Xuân Lâm, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Xuân Lâm, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16627",
+        "parent_code": "407"
+    },
+    "16630": {
+        "name": "Trúc Lâm",
+        "type": "phuong",
+        "slug": "truc-lam",
+        "name_with_type": "Phường Trúc Lâm",
+        "path": "Trúc Lâm, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Trúc Lâm, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16630",
+        "parent_code": "407"
+    },
+    "16633": {
+        "name": "Hải Bình",
+        "type": "phuong",
+        "slug": "hai-binh",
+        "name_with_type": "Phường Hải Bình",
+        "path": "Hải Bình, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Hải Bình, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16633",
+        "parent_code": "407"
+    },
+    "16636": {
+        "name": "Tân Trường",
+        "type": "xa",
+        "slug": "tan-truong",
+        "name_with_type": "Xã Tân Trường",
+        "path": "Tân Trường, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Tân Trường, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16636",
+        "parent_code": "407"
+    },
+    "16639": {
+        "name": "Tùng Lâm",
+        "type": "xa",
+        "slug": "tung-lam",
+        "name_with_type": "Xã Tùng Lâm",
+        "path": "Tùng Lâm, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Tùng Lâm, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16639",
+        "parent_code": "407"
+    },
+    "16642": {
+        "name": "Tĩnh Hải",
+        "type": "phuong",
+        "slug": "tinh-hai",
+        "name_with_type": "Phường Tĩnh Hải",
+        "path": "Tĩnh Hải, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Tĩnh Hải, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16642",
+        "parent_code": "407"
+    },
+    "16645": {
+        "name": "Mai Lâm",
+        "type": "phuong",
+        "slug": "mai-lam",
+        "name_with_type": "Phường Mai Lâm",
+        "path": "Mai Lâm, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Mai Lâm, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16645",
+        "parent_code": "407"
+    },
+    "16648": {
+        "name": "Trường Lâm",
+        "type": "xa",
+        "slug": "truong-lam",
+        "name_with_type": "Xã Trường Lâm",
+        "path": "Trường Lâm, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Trường Lâm, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16648",
+        "parent_code": "407"
+    },
+    "16651": {
+        "name": "Hải Yến",
+        "type": "xa",
+        "slug": "hai-yen",
+        "name_with_type": "Xã Hải Yến",
+        "path": "Hải Yến, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Hải Yến, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16651",
+        "parent_code": "407"
+    },
+    "16654": {
+        "name": "Hải Thượng",
+        "type": "phuong",
+        "slug": "hai-thuong",
+        "name_with_type": "Phường Hải Thượng",
+        "path": "Hải Thượng, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Phường Hải Thượng, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16654",
+        "parent_code": "407"
+    },
+    "16657": {
+        "name": "Nghi Sơn",
+        "type": "xa",
+        "slug": "nghi-son",
+        "name_with_type": "Xã Nghi Sơn",
+        "path": "Nghi Sơn, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Nghi Sơn, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16657",
+        "parent_code": "407"
+    },
+    "16660": {
+        "name": "Hải Hà",
+        "type": "xa",
+        "slug": "hai-ha",
+        "name_with_type": "Xã Hải Hà",
+        "path": "Hải Hà, Nghi Sơn, Thanh Hóa",
+        "path_with_type": "Xã Hải Hà, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",
+        "code": "16660",
+        "parent_code": "407"
+    }
+}
