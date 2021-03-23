@@ -43,6 +43,10 @@ class Install extends Command
     private function insert(string $tableName, $data)
     {
         foreach ($data as $id => $row) {
+            // Fix tỉnh quảng ngãi giải thể cấp xã
+            if (empty($row['code'])) {
+                continue;
+            }
             $row['id'] = $id;
             $mapData[] = $row;
         }
