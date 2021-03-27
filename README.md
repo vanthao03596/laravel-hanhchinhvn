@@ -1,7 +1,8 @@
-# Very short description of the package
+# Phân cấp hành chính Việt Nam cho Laravel
 
 Laravel hcvn contain all cities, districts, wards in vietnam 
 
+[(Chú ý: Huyện Lý Sơn tỉnh Quảng Ngãi hiện chỉ còn cấp Huyện không có cấp xã )](https://vov.vn/chinh-tri/huyen-ly-son-tinh-quang-ngai-khong-con-don-vi-hanh-chinh-cap-xa-1026812.vov)
 ## Installation
 
 You can install the package via composer:
