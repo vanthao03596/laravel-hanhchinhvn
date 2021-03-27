@@ -21,7 +21,6 @@
         "friendsofphp/php-cs-fixer": "^2.16",
         "orchestra/testbench": "^5.0|^6.0",
         "phpunit/phpunit": "^9.0",
-        "illuminate/contracts": "^6.0|^7.0|^8.0",
         "illuminate/database": "^6.0|^7.0|^8.0"
     },
     "autoload": {
