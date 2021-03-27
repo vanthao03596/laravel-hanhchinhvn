@@ -4,8 +4,8 @@ namespace Vanthao03596\HCVN\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\DB;
-use Vanthao03596\HCVN\Models\Province;
 use Vanthao03596\HCVN\Models\District;
+use Vanthao03596\HCVN\Models\Province;
 use Vanthao03596\HCVN\Models\Ward;
 
 class Install extends Command
