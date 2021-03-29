@@ -11,7 +11,7 @@ const path = require('path');
 
     await page._client.send('Page.setDownloadBehavior', {
         behavior: 'allow',
-        downloadPath: path.resolve(__dirname,'storage/app/downloaded'),
+        downloadPath: path.resolve(__dirname, 'downloaded'),
     });
 
     await page.evaluate(async() => {
