@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-hanhchinhvn` will be documented in this file
 
+## 1.1.7 - 29-03-2021
+
+- Update changelog and add test command
+
 ## 1.1.6 - 29-03-2021
 
 - Add scripts download
