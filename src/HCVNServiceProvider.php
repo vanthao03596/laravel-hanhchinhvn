@@ -19,6 +19,14 @@ class HCVNServiceProvider extends ServiceProvider
                 __DIR__.'/../database/migrations/create_hcvn_tables.php.stub' => $this->getMigrationFileName($filesystem),
             ], 'migrations');
 
+            $this->publishes([
+                __DIR__.'/../resources/data' => resource_path('vendor/laravel-hanhchinhvn/data'),
+            ], 'data');
+
+            $this->publishes([
+                __DIR__.'/../resources/scripts' => resource_path('vendor/laravel-hanhchinhvn/scripts'),
+            ], 'scripts');
+
             $this->commands([
                 Commands\Install::class,
             ]);

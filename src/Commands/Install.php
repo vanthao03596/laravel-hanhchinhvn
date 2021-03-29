@@ -37,7 +37,7 @@ class Install extends Command
 
     private function getContent($fileName): array
     {
-        return json_decode(file_get_contents(__DIR__ . "/../../resources/{$fileName}"), true);
+        return json_decode(file_get_contents(__DIR__ . "/../../resources/data/{$fileName}"), true);
     }
 
     private function insert(string $tableName, $data)
