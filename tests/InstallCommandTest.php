@@ -6,6 +6,6 @@ class InstallCommandTest extends TestCase
 {
     public function test_it_can_install()
     {
-        return true;
+        $this->assertTrue(true);
     }
 }
