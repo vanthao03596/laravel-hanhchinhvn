@@ -15,13 +15,13 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0"
+        "php": "^7.3 || ^8.0"
     },
     "require-dev": {
         "nunomaduro/collision": "^3.0 || ^5.3",
-        "orchestra/testbench": "^4.8|^5.2|^6.0",
+        "orchestra/testbench": "^4.8 || ^5.2 || ^6.0",
         "phpunit/phpunit": "^9.3",
-        "illuminate/database": "^6.0|^7.0|^8.0"
+        "illuminate/database": "^6.0 || ^7.0 || ^8.0"
     },
     "autoload": {
         "psr-4": {
