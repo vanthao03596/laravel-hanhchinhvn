@@ -9,7 +9,6 @@ class InstallCommandTest extends TestCase
     public function test_it_can_install()
     {
         $this->artisan(Install::class)
-            ->expectsOutput('All done.')
-            ->assertExitCode(0);
+            ->expectsOutput('All done.');
     }
 }
