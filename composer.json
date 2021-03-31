@@ -18,7 +18,7 @@
         "php": "^7.3|^8.0"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^2.16",
+        "nunomaduro/collision": "^3.0 || ^5.3",
         "orchestra/testbench": "^4.8|^5.2|^6.0",
         "phpunit/phpunit": "^9.3.3",
         "illuminate/database": "^6.0|^7.0|^8.0"
@@ -34,9 +34,8 @@
         }
     },
     "scripts": {
-        "test": "vendor/bin/phpunit",
-        "test-coverage": "vendor/bin/phpunit --coverage-html coverage",
-        "format": "vendor/bin/php-cs-fixer fix --allow-risky=yes"
+        "test": "./vendor/bin/testbench package:test",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
     },
     "config": {
         "sort-packages": true
