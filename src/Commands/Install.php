@@ -24,7 +24,7 @@ class Install extends Command
         $districtsData = $this->getContent('quan_huyen.json');
         $wardsData = $this->getContent('xa_phuong.json');
 
-        $tableNames = config('hcvn.table_names');
+        $tableNames = config('hanhchinhvn.table_names');
         $this->insert($tableNames['provinces'], $provincesData);
         $this->insert($tableNames['districts'], $districtsData);
 
