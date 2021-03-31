@@ -29,5 +29,4 @@ class HCVNServiceProvider extends PackageServiceProvider
             ], 'scripts');
         }
     }
-    
 }
