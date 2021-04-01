@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-hanhchinhvn` will be documented in this file
 
+## 1.1.9 - 01-04-2021
+
+- Fix error when install package
+
 ## 1.1.8 - 01-04-2021
 
 - Refactor to laravel-package-tools
