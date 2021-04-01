@@ -26,9 +26,12 @@ class Install extends Command
 
         $tableNames = config('hanhchinhvn.table_names');
         $this->insert($tableNames['provinces'], $provincesData);
-        $this->insert($tableNames['districts'], $districtsData);
+        
+        foreach (collect($districtsData)->chunk(999) as $district) {
+            $this->insert($tableNames['districts'], $district);
+        }
 
-        foreach (collect($wardsData)->chunk(1000) as $wards) {
+        foreach (collect($wardsData)->chunk(999) as $wards) {
             $this->insert($tableNames['wards'], $wards);
         }
 
