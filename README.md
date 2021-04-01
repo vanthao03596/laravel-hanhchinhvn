@@ -5,7 +5,7 @@ Laravel hcvn contain all cities, districts, wards in vietnam
 [(Chú ý: Huyện Lý Sơn tỉnh Quảng Ngãi hiện chỉ còn cấp Huyện không có cấp xã )](https://vov.vn/chinh-tri/huyen-ly-son-tinh-quang-ngai-khong-con-don-vi-hanh-chinh-cap-xa-1026812.vov)
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/vanthao03596/laravel-hanhchinhvn.svg?style=flat-square)](https://packagist.org/packages/vanthao03596/laravel-hanhchinhvn)
-![Tests](https://github.com/vanthao03596/laravel-hanhchinhvn/workflows/Tests/badge.svg)
+![Tests](https://github.com/vanthao03596/laravel-hanhchinhvn/workflows/run-tests/badge.svg)
 [![Total Downloads](https://img.shields.io/packagist/dt/vanthao03596/laravel-hanhchinhvn.svg?style=flat-square)](https://packagist.org/packages/vanthao03596/laravel-hanhchinhvn)
 
 ## Installation
