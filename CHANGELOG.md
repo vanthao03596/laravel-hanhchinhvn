@@ -2,7 +2,7 @@
 
 All notable changes to `laravel-hanhchinhvn` will be documented in this file
 
-## 1.1.8 - 29-03-2021
+## 1.1.8 - 01-04-2021
 
 - Refactor to laravel-package-tools
 
