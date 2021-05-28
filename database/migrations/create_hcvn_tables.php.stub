@@ -62,10 +62,10 @@ class CreateHcvnTables extends Migration
      */
     public function down()
     {
-        $tableNames = config('hcvn.table_names');
+        $tableNames = config('hanhchinhvn.table_names');
 
         if (empty($tableNames)) {
-            throw new \Exception('Error: config/hcvn.php not found and defaults could not be merged. Please publish the package configuration before proceeding, or drop the tables manually.');
+            throw new \Exception('Error: config/hanhchinhvn.php not found and defaults could not be merged. Please publish the package configuration before proceeding, or drop the tables manually.');
         }
 
         Schema::drop($tableNames['provinces']);
