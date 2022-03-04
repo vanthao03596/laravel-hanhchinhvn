@@ -25,7 +25,7 @@ abstract class TestCase extends Orchestra
         Schema::dropAllTables();
 
         include_once __DIR__.'/../database/migrations/create_hcvn_tables.php.stub';
-        
+
         (new \CreateHcvnTables())->up();
     }
 }
