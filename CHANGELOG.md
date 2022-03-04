@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-hanhchinhvn` will be documented in this file
 
+## 1.2.0 - 04-03-2022
+
+- Update data 3-3-2022
+
 ## 1.1.9 - 01-04-2021
 
 - Fix error when install package
